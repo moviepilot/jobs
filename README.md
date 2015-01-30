@@ -6,7 +6,7 @@ with young enthusiastic teams in Venice, CA and Berlin, DE. We're
 looking for talented people who love movies, entertainment and all
 things internet, to join us.
 
-To apply, send a short bio with any links to caspar@moviepilot.com.
+To apply, send a short bio with any links to caspar+jobs@moviepilot.com.
 
 ## Senior Frontend Developer
 
@@ -66,4 +66,4 @@ We are building the world's best place for fans to talk about movies.
 
 # How to contact us
 
-Drop us a line with your short bio to caspar+jobs@moviepilot.com
+To apply, send a short bio with any links to caspar+jobs@moviepilot.com.
