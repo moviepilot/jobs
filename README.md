@@ -14,6 +14,8 @@ We make a website called moviepilot.com using Ruby on Rails,
 Backbone.js, Node.js, Express, Puppet, Redis, Memcached, nginx, Varnish,
 MySQL, Elasticsearch, RabbitMQ and Neo4j .
 
+![Office Berlin: Darth Vader](https://raw.githubusercontent.com/moviepilot/jobs/master/assets/office_berlin_darth_vader.png)
+
 We are looking for an experienced developer who enjoys using our
 frontend stack, loves movies, doesn't mind our coffee eccentric team
 members and is an all-round nice person. We’re a bunch of developers
