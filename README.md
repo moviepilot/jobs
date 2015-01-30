@@ -8,6 +8,8 @@ things internet, to join us.
 
 To apply, send a short bio with any links to caspar+jobs@moviepilot.com.
 
+By the way: The images are from our office in Berlin.
+
 ## Senior Frontend Developer
 
 We make a website called moviepilot.com using Ruby on Rails,
