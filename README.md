@@ -37,8 +37,6 @@ trailers and breaking news, Moviepilot has grown to become the largest
 multi channel publisher on Facebook, and the fastest growing movie site
 in the world.
 
-We are building the world's best place for fans to talk about movies.
-
 ## Senior Backend Developer
 
 We make a website called moviepilot.com using Ruby on Rails,
@@ -67,8 +65,6 @@ over 70 million visits. From fan theories, viral lists, to recent
 trailers and breaking news, Moviepilot has grown to become the largest
 multi channel publisher on Facebook, and the fastest growing movie site
 in the world.
-
-We are building the world's best place for fans to talk about movies.
 
 # How to contact us
 
